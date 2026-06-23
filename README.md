@@ -1,7 +1,12 @@
 # Dark Shadows
 
+## Gameplay
 
-# References & Inspirations
+https://github.com/user-attachments/assets/1f276146-730b-417e-8110-d2cdb04e310f
+
+You can play the game here: https://moudzx.github.io/DarkShadows/
+
+## References & Inspirations
 
 Dark Shadows Opening Theme
 https://youtu.be/nqo-bLgmbSU?si=UfkfyRI_nE5GXHIK <br>
